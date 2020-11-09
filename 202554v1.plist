@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://amitgupta.dev/iosapp/202554.ipa</string>
+					<string>https://media.githubusercontent.com/media/amit27592/iosapp/main/202554.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.phonepe.PhonePeApp</string>
+				<string>com.phonepe.PhonePeAppStage</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -25,7 +25,7 @@
 				<key>subtitle</key>
 				<string>41A472</string>
 				<key>title</key>
-				<string>PhonePe Prod</string>
+				<string>PhonePe Stage</string>
 			</dict>
 		</dict>
 	</array>
